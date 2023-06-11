@@ -10,5 +10,4 @@ function cookLunch(a) {
   }
   console.log("Add ingridients");
   console.log("Stir and cook");
-  console.log("Serve");
 }
