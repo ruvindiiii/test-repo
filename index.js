@@ -8,6 +8,6 @@ function cookLunch(a) {
   for (let i = 0; i < cookingMainItems.length; i++) {
     cutThingsWithKnife(cookingMainItems[i]);
   }
-  console.log("Add ingridients");
+  console.log("Add ingredients");
   console.log("Stir and cook");
 }
