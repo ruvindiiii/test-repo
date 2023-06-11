@@ -1,6 +1,6 @@
 function cookLunch(a) {
   let cookingMainItems = [];
-  console.log("Get things out of the fridge");
+  console.log("Get items out of the fridge");
   cookingMainItems.push("Chicken");
   cookingMainItems.push("Beans");
   cookingMainItems.push("Potatoes");
